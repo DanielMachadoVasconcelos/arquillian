@@ -1,6 +1,6 @@
 # Arquillian
 
-Utilizando arquillian para teste de serviços.
+Arquillian tests for java ee 7 services.
 
 Clone this repo into new project folder (e.g., `arquillian`).
 ```bash
